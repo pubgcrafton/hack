@@ -37,4 +37,4 @@ class AMod(loader.Module):
 				await sleep(0.4)
 			for i in ["DONIYOR AKA", "DONIYOR AKA 😍", "MEN ❤️", "MEN SIZNI ❤️", "DONIYOR AKA 😍 MEN SIZNI ❤️ SEVAMAN!"]:
 				await message.edit(f"<b>{i}</b>")
-				await sleep(0.5)
+				await sleep(0.5) hahahahahhahha
